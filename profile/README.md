@@ -18,17 +18,17 @@ Our platform covers:
 | Category | Description |
 |---|---|
 | [GTA 6 Map](https://gta6map.site/) | Explore the GTA VI world and discover points of interest. |
-| Locations | Discover Vice City locations, neighborhoods, landmarks, and destinations. |
-| Characters | Explore GTA VI protagonists and other characters. |
-| Vehicles | Discover cars, motorcycles, boats, aircraft, and other vehicles. |
+| [Locations](https://gta6map.site/wiki/locations/) | Discover Vice City locations, neighborhoods, landmarks, and destinations. |
+| [Characters](https://gta6map.site/wiki/characters/) | Explore GTA VI protagonists and other characters. |
+| [Vehicles](https://gta6map.site/wiki/vehicles/) | Discover cars, motorcycles, boats, aircraft, and other vehicles. |
 | Missions | Find mission information and gameplay resources. |
 | Collectibles | Explore collectible categories and discoveries. |
-| Weapons | Browse weapons and equipment information. |
+| [Weapons](https://gta6map.site/wiki/weapons/) | Browse weapons and equipment information. |
 | Businesses | Discover businesses and commercial locations. |
 | Properties | Explore properties and real estate-related information. |
 | Cheats | Find GTA VI cheat-related information as it becomes available. |
 | Guides | Read walkthroughs, tutorials, tips, and gameplay guides. |
-| News | Follow Grand Theft Auto VI news and updates. |
+| [News](https://gta6map.site/wiki/news/) | Follow Grand Theft Auto VI news and updates. |
 
 ## 🎮 Why GTA6Map.site?
 
